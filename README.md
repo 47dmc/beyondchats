@@ -18,4 +18,6 @@ The website is fully responsive on all devices and I have used confetti using "r
 
 To test the chatBot i have created a dummy chatting Box (which obviously doesn't work) and to Integrate the chatbot to the organization's website I have created a dummy script to copy.
 
+The website is hosted at https://47dmc.github.io/beyondchats/ or you can also find the link in the package.json file ("homepage")
+for more details on the design and coding style for the UI and some logics, you may please chek the inline comments that i have added on numerous lines of codes.
 
